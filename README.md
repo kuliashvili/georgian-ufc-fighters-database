@@ -1,7 +1,7 @@
 # Georgian UFC Fighters Database
 
 MySQL database tracking all Georgian fighters who have competed in the Ultimate Fighting Championship (UFC), celebrating Georgia's rising dominance in mixed martial arts.
-<img width="1140" height="587" alt="image" src="https://github.com/user-attachments/assets/3f9e3d4f-c66d-4e0d-88d1-e9c6046b5ab9" />
+<img width="690" height="390" alt="image" src="https://github.com/user-attachments/assets/df4d7b15-c043-4528-ab24-9b8663579f40" />
 
 
 ## Current Georgian Champions
